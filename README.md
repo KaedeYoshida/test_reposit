@@ -1,4 +1,4 @@
-Updated on 07 Nov 2021
+Updated on 17 Nov 2021
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                                                 |
@@ -328,7 +328,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | FY2019    | Yusei Nakayama; Faculty of Engineering, Toyohashi University of Technology |
 | FY2020    | Kakeru Ohya; Faculty of Engineering, Toyohashi University of Technology    |
 | FY2021    | Kota Itagaki; Faculty of Pharmaceutical Sciences, Hokkaido University      |
-| FY2021    | Kaede Yoshida; Faculty of Pharmaceutical Sciences, Hokkaido University     | 
+| FY2021    | Kaede Yoshida; Faculty of Pharmaceutical Sciences, Hokkaido University     |
 
 ### Relevant Experience
 |      |                                                                                                                   |
