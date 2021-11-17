@@ -1,2 +1,2 @@
 Hello, World!
-test
+This repository has been test-published.
